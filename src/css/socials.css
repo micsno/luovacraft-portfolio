@@ -1,0 +1,41 @@
+.nav-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Add this line */
+}
+
+.nav-menu li {
+  list-style: none;
+  margin: 0 10px;
+}
+
+.nav-link {
+  color: #333;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.nav-link i {
+  font-size: 20px;
+}
+
+.theme-switch {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+@media (max-width: 768px) {
+  .nav-menu {
+    flex-direction: column;
+  }
+
+  .nav-menu li {
+    margin: 10px 0;
+  }
+
+  .social-icons {
+    display: flex; /* Add this line */
+    justify-content: center; /* Add this line */
+  }
+}

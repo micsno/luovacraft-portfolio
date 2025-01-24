@@ -17,12 +17,12 @@ To use this repository for your own webpage, follow these steps:
 
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/micsno/LuovaCraftPage.git
+    git clone https://github.com/micsno/luovacraft-portfolio-template.git
     ```
 
 2. Navigate to the cloned repository:
     ```
-    cd LuovaCraftPage
+    cd luovacraft-portfolio-template
     ```
 
 3. Customize the code and content to suit your needs. You can modify the design, add new features, or integrate it into your existing project.
